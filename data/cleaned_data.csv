@@ -1,0 +1,9 @@
+id,cleaned_text,label
+1,"congratulations won free gift",spam
+2,"hey still meeting tomorrow",ham
+3,"claim reward now",spam
+4,"lets catch up later",ham
+5,"win cash prize today",spam
+6,"hello how are you",ham
+7,"exclusive offer limited time",spam
+8,"see you at 6 pm",ham
