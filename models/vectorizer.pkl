@@ -1,0 +1,3 @@
+import joblib
+vectorizer = joblib.load("models/vectorizer.pkl")
+text_tfidf = vectorizer.transform(["win cash prize"])
