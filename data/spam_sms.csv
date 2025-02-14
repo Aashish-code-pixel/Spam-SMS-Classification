@@ -1,0 +1,6 @@
+id,message,label
+1,"Congratulations! You've won a free gift.",spam
+2,"Hey, are we still meeting tomorrow?",ham
+3,"Claim your $1000 reward now!",spam
+4,"Let's catch up later.",ham
+...
