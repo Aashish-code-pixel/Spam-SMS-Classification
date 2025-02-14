@@ -1,0 +1,4 @@
+import joblib
+model = joblib.load("models/spam_classifier.pkl")
+prediction = model.predict(["win cash prize"])
+print("Prediction:", prediction)
